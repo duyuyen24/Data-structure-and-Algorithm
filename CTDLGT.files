@@ -14,8 +14,9 @@ source/app/BFS/ShortestReach.cpp
 source/app/BFS/VALIDATETHEMAZE.cpp
 source/app/BFS/slick.cpp
 source/app/DFS/ConnectedCellsinaGrid.cpp
+source/app/DFS/CountLuck.cpp
 source/app/DFS/Makefile.mk
-source/app/DFS/main.cpp
+source/app/DFS/sheep.cpp
 source/app/linkedlist/Doubly Linked List.cpp
 source/app/linkedlist/Makefile.mk
 source/app/linkedlist/doublyLL.h
@@ -26,7 +27,7 @@ source/app/sorting/EightPointSets.cpp
 source/app/sorting/GukiZandContest.cpp
 source/app/sorting/Makefile.mk
 source/app/sorting/PashaandTea.cpp
-source/app/sorting/Sort the Array.cpp
+source/app/sorting/SorttheArray.cpp
 source/app/sorting/Towers.cpp
 source/app/stack&queue/Makefile.mk
 source/app/stack&queue/Transform the Expression.cpp
