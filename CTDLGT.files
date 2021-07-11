@@ -3,17 +3,30 @@ README.md
 linux_app_build/linux_app
 source/CTDLGT.cflags
 source/CTDLGT.cxxflags
+source/app/BFS/CountLuck.cpp
 source/app/BFS/GuiltyPrince.cpp
+source/app/BFS/IceCave.cpp
 source/app/BFS/KefaandPark.cpp
+source/app/BFS/KnightLonaChessboard.cpp
 source/app/BFS/Makefile.mk
+source/app/BFS/RedKShortestPath.cpp
 source/app/BFS/ShortestReach.cpp
 source/app/BFS/VALIDATETHEMAZE.cpp
+source/app/BFS/slick.cpp
+source/app/DFS/ConnectedCellsinaGrid.cpp
 source/app/DFS/Makefile.mk
 source/app/DFS/main.cpp
 source/app/linkedlist/Doubly Linked List.cpp
 source/app/linkedlist/Makefile.mk
 source/app/linkedlist/doublyLL.h
+source/app/sorting/Businesstrip.cpp
+source/app/sorting/Chores.cpp
+source/app/sorting/DevutheDumbGuy.cpp
+source/app/sorting/EightPointSets.cpp
+source/app/sorting/GukiZandContest.cpp
 source/app/sorting/Makefile.mk
+source/app/sorting/PashaandTea.cpp
 source/app/sorting/Sort the Array.cpp
+source/app/sorting/Towers.cpp
 source/app/stack&queue/Makefile.mk
 source/app/stack&queue/Transform the Expression.cpp

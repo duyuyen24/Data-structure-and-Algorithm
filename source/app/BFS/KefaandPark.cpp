@@ -1,3 +1,5 @@
+// link of problem: https://codeforces.com/problemset/problem/580/C
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -38,7 +40,7 @@ int bfs(int x) {
 	}
 	return ans;
 }
-int main() {
+int main(){
 	int t, x, y;
 	cin >> n >> m;
 	for(int i = 1; i <= n; i ++) {

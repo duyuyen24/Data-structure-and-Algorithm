@@ -1,3 +1,4 @@
+//link of problem: https://lightoj.com/problem/guilty-prince
 #include<bits/stdc++.h>
 using namespace std;
 

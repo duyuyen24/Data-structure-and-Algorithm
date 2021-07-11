@@ -25,7 +25,7 @@
 using namespace std;
 
 
-int main(){
+int main(){d
 	Node* head = NULL;
 
 	addLast(&head, 6);
