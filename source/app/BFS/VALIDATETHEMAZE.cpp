@@ -1,3 +1,6 @@
+//link of problem: https://vjudge.net/problem/SPOJ-MAKEMAZE
+#ifndef VALIDATETHEMAZE
+#define VALIDATETHEMAZE
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -85,3 +88,5 @@ int main(){
 
 	return 0;
 }
+
+#endif

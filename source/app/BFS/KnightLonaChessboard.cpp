@@ -1,5 +1,4 @@
-#ifndef KNIGHTLONACHESSBOARD_CPP
-#define KNIGHTLONACHESSBOARD_CPP
+
 //link : https://www.hackerrank.com/challenges/knightl-on-chessboard
 #include<bits/stdc++.h>
 
@@ -58,5 +57,3 @@ int main(){
 	}
 
 }
-
-#endif // KNIGHTLONACHESSBOARD_CPP

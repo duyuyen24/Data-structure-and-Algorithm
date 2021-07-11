@@ -1,8 +1,4 @@
 //link of problem: https://www.hackerrank.com/challenges/bfsshortreach/problem
-
-#ifndef ShortestReach
-#define ShortestReach
-
 #include <vector>
 #include <iostream>
 #include <algorithm>
@@ -56,4 +52,3 @@ int main() {
 	}
 	return 0;
 }
-#endif

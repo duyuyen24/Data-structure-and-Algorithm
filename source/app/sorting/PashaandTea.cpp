@@ -4,8 +4,7 @@
 using namespace std;
 int a[200000];
 int n,w;
-int main()
-{
+int main(){
 	scanf("%d%d", &n, &w);
 	for(int i = 0; i < n*2; i++) {
 		scanf("%d", &a[i]);
