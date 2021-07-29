@@ -1,1 +1,1 @@
-Solutions to problems on sites like Codeforces, Spoj, Hacker rank, etc.
+Solutions to problems on Codeforces, Spoj, Hacker rank, etc.
