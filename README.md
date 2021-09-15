@@ -56,6 +56,6 @@ Find all about search algorithms including Linear Search and Binary Search. Lear
 >[In terms of Binary Search's problems](https://vjudge.net/contest/447964)
 
 ### WEEK 8
-Participate in a self-created contest to evaluate all of the data structures and algorithms knowledge having achieved over on this process.
+Participate in a self-created contest to evaluate all of the data structures and algorithms knowledge having achieved over on this process.(including problems on LightOJ, SPOJ, UVA, CodeChef)
 
 >[Regarding Review'contest](https://vjudge.net/contest/449519)
